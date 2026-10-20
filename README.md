@@ -1,14 +1,6 @@
 # uts-graf-sains-data
 Analisis graf dan rekomendasi item menggunakan dataset RetailRocket
 
-# UTS Graf Sains Data
-
-## Deskripsi
-Proyek ini dikerjakan untuk memenuhi tugas UTS mata kuliah Graf Sains Data dengan menggunakan dataset RetailRocket.
-
-## Tujuan
-Melakukan analisis interaksi pengguna dan item serta menerapkan metode rekomendasi berbasis graf dan kemiripan pengguna atau item.
-
 ## Metode
 - Representasi interaksi pengguna dan item.
 - Analisis graf dan proyeksi graf.
